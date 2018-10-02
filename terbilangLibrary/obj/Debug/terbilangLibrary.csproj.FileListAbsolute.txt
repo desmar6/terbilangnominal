@@ -1,0 +1,5 @@
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.dll
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\bin\Debug\terbilangLibrary.pdb
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.csprojResolveAssemblyReference.cache
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.dll
+D:\visual studio\mualiflihawa\terbilangApp\terbilangLibrary\obj\Debug\terbilangLibrary.pdb
